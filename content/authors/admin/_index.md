@@ -47,7 +47,7 @@ social:
     link: https://scholar.google.com/citations?user=y05xFCAAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/joschif
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/josch_f
@@ -71,7 +71,7 @@ highlight_name: true
 
 I'm currently (still) a PhD candidate at the Department of Biosystems Science and Engineering at ETH Zürich in the [Lab of Barbara Treutlein](https://bsse.ethz.ch/qdb).
 
-My current work focuses in deciphering the gene regulatory logic of cell fate decisions in brain organoids.
+My current work focuses on deciphering the gene regulatory logic of cell fate decisions in brain organoids.
 For this, I am using a wide range of statistical and machine learning methods, primarily on single-cell (multi-)omics data. I also like to build computational tools for single-cell genomics.
 
 I'm excited about moving towards predictive biology!
